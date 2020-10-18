@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\39641\Desktop\easyx test\easyx test\showbfs.h(229,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showbfs.h(247,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showdfs.h(230,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showdfs.h(248,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showqueue.h(44,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showqueue.h(64,12): warning C4101: “mouse”: 未引用的局部变量
+C:\Users\39641\Desktop\easyx test\easyx test\showqueue.h(124,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showqueue.h(134,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\39641\Desktop\easyx test\easyx test\showqueue.h(138,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showstack.h(45,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showstack.h(65,12): warning C4101: “mouse”: 未引用的局部变量
+C:\Users\39641\Desktop\easyx test\easyx test\showstack.h(121,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\showstack.h(131,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\39641\Desktop\easyx test\easyx test\showstack.h(135,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\39641\Desktop\easyx test\easyx test\main.cpp(66,20): warning C4018: “<”: 有符号/无符号不匹配
+  easyx test.vcxproj -> C:\Users\39641\Desktop\easyx test\Debug\easyx test.exe
